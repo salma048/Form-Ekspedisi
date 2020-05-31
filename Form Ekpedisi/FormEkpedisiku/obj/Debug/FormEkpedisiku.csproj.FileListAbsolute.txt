@@ -1,0 +1,21 @@
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkpedisiku\FormEkpedisiku\bin\Debug\FormEkpedisiku.exe.config
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkpedisiku\FormEkpedisiku\bin\Debug\FormEkpedisiku.exe
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkpedisiku\FormEkpedisiku\bin\Debug\FormEkpedisiku.pdb
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkpedisiku\FormEkpedisiku\obj\Debug\FormEkpedisiku.csprojAssemblyReference.cache
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkpedisiku\FormEkpedisiku\obj\Debug\FormEkpedisiku.Form1.resources
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkpedisiku\FormEkpedisiku\obj\Debug\FormEkpedisiku.Properties.Resources.resources
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkpedisiku\FormEkpedisiku\obj\Debug\FormEkpedisiku.csproj.GenerateResource.cache
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkpedisiku\FormEkpedisiku\obj\Debug\FormEkpedisiku.exe
+E:\TUGAS KULIAH\TUGAS KULIAH SEMESTER 4\PEMROGRAMAN VISUAL\FormEkpedisiku\FormEkpedisiku\obj\Debug\FormEkpedisiku.pdb
+D:\document\teknik informatika\p visual\Form-Ekspedisi-master\FormEkpedisiku\FormEkpedisiku\bin\Debug\FormEkpedisiku.exe.config
+D:\document\teknik informatika\p visual\Form-Ekspedisi-master\FormEkpedisiku\FormEkpedisiku\obj\Debug\FormEkpedisiku.exe
+D:\document\teknik informatika\p visual\Form-Ekspedisi-master\FormEkpedisiku\FormEkpedisiku\obj\Debug\FormEkpedisiku.pdb
+D:\document\teknik informatika\p visual\Form-Ekspedisi-master\FormEkpedisiku\FormEkpedisiku\bin\Debug\FormEkpedisiku.exe
+D:\document\teknik informatika\p visual\Form-Ekspedisi-master\FormEkpedisiku\FormEkpedisiku\bin\Debug\FormEkpedisiku.pdb
+D:\document\teknik informatika\p visual\Form-Ekspedisi-master\FormEkpedisiku\FormEkpedisiku\obj\Debug\FormEkpedisiku.csprojResolveAssemblyReference.cache
+D:\document\teknik informatika\p visual\Form-Ekspedisi-master\FormEkpedisiku\FormEkpedisiku\obj\Debug\FormEkpedisiku.Form1.resources
+D:\document\teknik informatika\p visual\Form-Ekspedisi-master\FormEkpedisiku\FormEkpedisiku\obj\Debug\FormEkpedisiku.Properties.Resources.resources
+D:\document\teknik informatika\p visual\Form-Ekspedisi-master\FormEkpedisiku\FormEkpedisiku\obj\Debug\FormEkpedisiku.csproj.GenerateResource.Cache
+D:\document\teknik informatika\p visual\Form Ekpedisi\FormEkpedisiku\bin\Debug\FormEkpedisiku.exe.config
+D:\document\teknik informatika\p visual\Form Ekpedisi\FormEkpedisiku\obj\Debug\FormEkpedisiku.exe
+D:\document\teknik informatika\p visual\Form Ekpedisi\FormEkpedisiku\obj\Debug\FormEkpedisiku.pdb
